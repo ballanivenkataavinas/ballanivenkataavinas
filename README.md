@@ -1,15 +1,3 @@
-<h1 align="center">Hi, I'm Avinash</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder</h3>
-
-<p align="center">
-Building security-focused applications, threat detection tools, and secure backend systems.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ballanivenkataavinas&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 
 <h3 align="center">
