@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Avinash</h1>
 
 <h3 align="center">
-🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder
+ Hi, I'm Avinash
+
+ Aspiring SOC Analyst | Application Security Engineer | Python Backend Developer focused on Secure Systems & Threat Detection
 </h3>
 
 <p align="center">
