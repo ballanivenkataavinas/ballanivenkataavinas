@@ -14,7 +14,7 @@ Building security-focused applications, threat detection tools, and secure backe
 
 ---
 
-# 🧠 Cybersecurity Focus
+#  Cybersecurity Focus
 
 ```diff
 + Secure Web Application Architecture
@@ -28,7 +28,7 @@ I focus on building **practical cybersecurity tools and secure backend systems**
 
 ---
 
-# 🚀 What I'm Working On
+#  What I'm Working On
 
 ```yaml
 Current Focus:
@@ -90,7 +90,7 @@ Current Focus:
 
 ---
 
-# 🧩 Core Concepts
+#  Core Concepts
 
 <p>
 
@@ -105,7 +105,7 @@ Current Focus:
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🔐 Secure Web Application Architecture
 
@@ -120,7 +120,7 @@ Security-focused web application implementing:
 
 ---
 
-## ⚡ SSH Brute Force Detection
+##  SSH Brute Force Detection
 
 ```
 Security monitoring tool that detects:
@@ -133,7 +133,7 @@ Used for early attack detection and system monitoring.
 
 ---
 
-## 🛡 Vulnerability Risk Radar
+##  Vulnerability Risk Radar
 
 ```
 Automated vulnerability scanning system that:
@@ -146,7 +146,7 @@ Designed for vulnerability management and security assessment.
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -164,7 +164,7 @@ Designed for vulnerability management and security assessment.
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballanivenkataavinas&theme=tokyo-night"/>
@@ -172,7 +172,7 @@ Designed for vulnerability management and security assessment.
 
 ---
 
-# 🔗 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
