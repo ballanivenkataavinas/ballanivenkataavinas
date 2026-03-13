@@ -10,34 +10,50 @@ Building security-focused applications, threat detection tools, and secure backe
 </p>
 
 ---
+<h1 align="center">Hi 👋, I'm Avinash</h1>
 
-## 🧠 Cybersecurity Focus
+<h3 align="center">
+🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder
+</h3>
 
-Secure Web Application Architecture
-Threat Detection Systems
-Backend Security Engineering
-SOC & Blue Team Learning
-Security Automation
+<p align="center">
+Building security-focused applications, threat detection tools, and secure backend systems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ballanivenkataavinas&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🧠 Cybersecurity Focus
+
+```diff
++ Secure Web Application Architecture
++ Threat Detection Systems
++ Backend Security Engineering
++ SOC & Blue Team Learning
++ Security Automation
+```
 
 I focus on building **practical cybersecurity tools and secure backend systems** that simulate **real-world cyber threats and defense mechanisms.**
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 What I'm Working On
 
-🔭 Developing **secure backend systems using Python & FastAPI**
-
-🛡 Building **security-focused web applications with authentication, RBAC & rate limiting**
-
-⚡ Creating **threat detection tools and cybersecurity automation scripts**
-
-🌱 Learning **penetration testing, SOC operations, and threat hunting**
-
-🤝 Open to collaborating on **open-source cybersecurity tools**
+```yaml
+Current Focus:
+  - Secure Backend Development (Python + FastAPI)
+  - Security-focused Web Applications
+  - Threat Detection & Monitoring Tools
+  - Cybersecurity Automation Scripts
+  - SOC & Blue Team Skills
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Programming
 
@@ -70,7 +86,7 @@ I focus on building **practical cybersecurity tools and secure backend systems**
 
 ---
 
-## 🛡 Cybersecurity Tools & Lab Stack
+# 🛡 Cybersecurity Tools & Lab Stack
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
@@ -86,56 +102,63 @@ I focus on building **practical cybersecurity tools and secure backend systems**
 
 ---
 
-## 🧩 Core Concepts
+# 🧩 Core Concepts
 
-Data Structures & Algorithms (DSA)
-Networking Fundamentals
-Web Application Security
-Authentication & Access Control
-API Security
-Threat Detection
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking%20Fundamentals-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20Application%20Security-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Security-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication%20%26%20Access%20Control-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-black?style=flat-square"/>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔐 **Secure Web Application Architecture**
+## 🔐 Secure Web Application Architecture
 
+```
 Security-focused web application implementing:
-
-JWT authentication
-Role-Based Access Control (RBAC)
-API rate limiting
-SQL injection protection
-Secure backend architecture
+• JWT Authentication
+• Role-Based Access Control (RBAC)
+• API Rate Limiting
+• SQL Injection Protection
+• Secure Backend Architecture
+```
 
 ---
 
-⚡ **SSH Brute Force Detection**
+## ⚡ SSH Brute Force Detection
 
+```
 Security monitoring tool that detects:
+• Multiple SSH Login Attempts
+• Brute Force Attack Patterns
+• Suspicious Authentication Behavior
 
-Multiple SSH login attempts
-Brute force attack patterns
-Suspicious authentication behavior
-
-Used for **early attack detection and system monitoring**.
+Used for early attack detection and system monitoring.
+```
 
 ---
 
-🛡 **Vulnerability Risk Radar**
+## 🛡 Vulnerability Risk Radar
 
+```
 Automated vulnerability scanning system that:
+• Analyzes system vulnerabilities
+• Aggregates security risk data
+• Prioritizes vulnerabilities based on risk level
 
-Analyzes system vulnerabilities
-Aggregates security risk data
-Prioritizes vulnerabilities based on risk level
-
-Designed for **security assessment and vulnerability management**.
+Designed for vulnerability management and security assessment.
+```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -153,7 +176,7 @@ Designed for **security assessment and vulnerability management**.
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ballanivenkataavinas&theme=tokyo-night"/>
@@ -161,7 +184,7 @@ Designed for **security assessment and vulnerability management**.
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="center">
 
