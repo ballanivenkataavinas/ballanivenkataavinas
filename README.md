@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash</h1>
+<h1 align="center">Hi, I'm Avinash</h1>
 <h3 align="center">🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder</h3>
 
 <p align="center">
