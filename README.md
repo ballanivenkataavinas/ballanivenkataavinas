@@ -1,0 +1,140 @@
+<h1 align="center">Hi 👋, I'm Avinash</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder</h3>
+
+<p align="center">
+Building security-focused applications, threat detection tools, and secure backend systems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ballanivenkataavinas&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 🧠 Cybersecurity Focus
+
+```
+Secure Web Application Architecture
+Threat Detection Systems
+Backend Security Engineering
+SOC & Blue Team Learning
+Security Automation
+```
+
+I focus on building **practical cybersecurity tools and secure backend systems** that simulate **real-world cyber threats and defense mechanisms.**
+
+---
+
+## 🚀 What I'm Working On
+
+🔭 Developing **secure backend systems using Python & FastAPI**
+
+🛡 Building **security-focused web applications with authentication, RBAC & rate limiting**
+
+⚡ Creating **threat detection tools and cybersecurity automation scripts**
+
+🌱 Learning **penetration testing, SOC operations, and threat hunting**
+
+🤝 Open to collaborating on **open-source cybersecurity tools**
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### Backend & Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap)
+
+### Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway)
+
+---
+
+## 🛡 Cybersecurity Tools & Lab Stack
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37021?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-1E1E1E?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+🔐 **Secure Web Application Architecture**
+Security-focused web application implementing JWT authentication, RBAC, rate limiting and SQL injection protection.
+
+🛡 **Cyberbullying Detection & Escalation Tool**
+Real-time abuse detection system using Trie-based keyword detection and multi-language support.
+
+⚙ **Real-Time Multi-Threaded Application Simulator**
+Simulation of concurrent processes and system behavior using multi-threading concepts.
+
+🤖 **AI Grammar Checker Bot**
+Lightweight NLP-based tool for grammar detection and text correction.
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ballanivenkataavinas&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ballanivenkataavinas&show_icons=true&theme=tokyonight"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ballanivenkataavinas&theme=tokyonight"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballanivenkataavinas&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ballanivenkataavinas&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+<a href="https://github.com/ballanivenkataavinas">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
