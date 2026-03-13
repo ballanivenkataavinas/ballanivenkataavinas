@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Avinash</h1>
+<h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">🔐 Cybersecurity Enthusiast | Python Backend Developer | Secure Systems Builder</h3>
 
 <p align="center">
@@ -13,13 +13,11 @@ Building security-focused applications, threat detection tools, and secure backe
 
 ## 🧠 Cybersecurity Focus
 
-```
 Secure Web Application Architecture
 Threat Detection Systems
 Backend Security Engineering
 SOC & Blue Team Learning
 Security Automation
-```
 
 I focus on building **practical cybersecurity tools and secure backend systems** that simulate **real-world cyber threats and defense mechanisms.**
 
@@ -75,28 +73,65 @@ I focus on building **practical cybersecurity tools and secure backend systems**
 ## 🛡 Cybersecurity Tools & Lab Stack
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk)
+![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F37021?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-1E1E1E?style=for-the-badge)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-FF6F00?style=for-the-badge)
+
+---
+
+## 🧩 Core Concepts
+
+Data Structures & Algorithms (DSA)
+Networking Fundamentals
+Web Application Security
+Authentication & Access Control
+API Security
+Threat Detection
 
 ---
 
 ## 🚀 Featured Projects
 
 🔐 **Secure Web Application Architecture**
-Security-focused web application implementing JWT authentication, RBAC, rate limiting and SQL injection protection.
 
-🛡 **Cyberbullying Detection & Escalation Tool**
-Real-time abuse detection system using Trie-based keyword detection and multi-language support.
+Security-focused web application implementing:
 
-⚙ **Real-Time Multi-Threaded Application Simulator**
-Simulation of concurrent processes and system behavior using multi-threading concepts.
+JWT authentication
+Role-Based Access Control (RBAC)
+API rate limiting
+SQL injection protection
+Secure backend architecture
 
-🤖 **AI Grammar Checker Bot**
-Lightweight NLP-based tool for grammar detection and text correction.
+---
+
+⚡ **SSH Brute Force Detection**
+
+Security monitoring tool that detects:
+
+Multiple SSH login attempts
+Brute force attack patterns
+Suspicious authentication behavior
+
+Used for **early attack detection and system monitoring**.
+
+---
+
+🛡 **Vulnerability Risk Radar**
+
+Automated vulnerability scanning system that:
+
+Analyzes system vulnerabilities
+Aggregates security risk data
+Prioritizes vulnerabilities based on risk level
+
+Designed for **security assessment and vulnerability management**.
 
 ---
 
@@ -111,11 +146,17 @@ Lightweight NLP-based tool for grammar detection and text correction.
 ## 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ballanivenkataavinas&show_icons=true&theme=tokyonight"/>
+
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ballanivenkataavinas&theme=tokyonight"/>
+
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ballanivenkataavinas&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -131,10 +172,13 @@ Lightweight NLP-based tool for grammar detection and text correction.
 ## 🔗 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/ballanivenkataavinas">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
