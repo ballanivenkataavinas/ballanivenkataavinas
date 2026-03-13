@@ -2,8 +2,8 @@
 
 <h3 align="center">
  Hi, I'm Avinash
-
- Aspiring SOC Analyst | Application Security Engineer | Python Backend Developer focused on Secure Systems & Threat Detection
+🔐 Aspiring SOC Analyst | Application Security Engineer  
+⚡ Python Backend Developer focused on Secure Systems
 </h3>
 
 <p align="center">
