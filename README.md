@@ -41,7 +41,7 @@ Current Focus:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Programming
 
@@ -74,7 +74,7 @@ Current Focus:
 
 ---
 
-# 🛡 Cybersecurity Tools & Lab Stack
+# Cybersecurity Tools & Lab Stack
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
@@ -107,7 +107,7 @@ Current Focus:
 
 #  Featured Projects
 
-## 🔐 Secure Web Application Architecture
+##  Secure Web Application Architecture
 
 ```
 Security-focused web application implementing:
