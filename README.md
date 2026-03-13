@@ -135,14 +135,6 @@ Designed for **security assessment and vulnerability management**.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ballanivenkataavinas&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
